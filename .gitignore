@@ -12,3 +12,8 @@
 /captures
 .externalNativeBuild
 .cxx
+
+# Keystore files
+*.jks
+/keystore.properties
+archive.tar.gz
