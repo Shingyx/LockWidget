@@ -36,6 +36,7 @@ deploy:
   api_key:
     secure: fnuHnwOgV2JX3Ecu6nEX9duShkVkdpXhJt6XOp9QbKtaSul77TvZe3/O9o/wqN+/00RYaWsBpPp20VX3KbFyAgX5qaKltDYckY+yvrclYlhGXUBFrxJxxN6TLlhL9IPrZPYb08sQaVZwWYPQ1NqFGSZVM3lRD+PyJVful5d525pVtpBAzmi6OGDcLK/FHyx3M4c4IYdn8QKpfTHqsUZ6PoGfiSveMZ4k+DleFME24TQYspc139lL/56aBdSwdoZH+ooKFuZBQ+HBUv4/xbQey/LVrIR//8IjHfoTniMnyFsWG39mxXKVCuVqdIng7UMcx5i1QnHzS0y/F/27aBYUQ+UtmoPgPfuy+k1KgXKEgZQ6ilLP99y8zFT6Q2y+gLgMEdvVs2HhnSl4hNMiQS2ZD4e0XUmpRQS5BA3ZOTLrhubAdrmr0Ihs5gMV+2wIbJvR5UXL8ZTOiXJLfM5gbOvS+EFGf8s9K9nRIpqCWxJqLCyA00jFi7MA/yBk8oHWGTjaJXCdy/pEo4dS/qsa67n7nHIg5C5xwAxGUqYy6niFPLN/yYW2FewqWT0E6r0EC/5A/eVZRQ7IgaCfRi/yZv0cGSGwo2MmEV/qVd1Fdgs0Frf3q8MscbP1T8w/bICiJ97rqq6RBxckbqLsI8yGq24xNdPVUNlkHItOg1FXUo/ehPw=
   file: LockWidget.apk
+  skip_cleanup: true
   on:
     repo: Shingyx/LockWidget
     tags: true
