@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lock Widget</string>
+    <string name="service_description">Allows Lock Widget to lock your device</string>
+    <string name="accessibility_service_enabled">Accessibility Service Enabled</string>
+    <string name="lock">Lock</string>
+    <string name="toast_help">Please enable the Lock Widget accessibility service</string>
+</resources>
