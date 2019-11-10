@@ -8,7 +8,7 @@ import android.view.accessibility.AccessibilityEvent;
 import android.view.accessibility.AccessibilityManager;
 
 public class LockService extends AccessibilityService {
-    public static String ACTION_LOCK = "com.github.shingyx.lockwidget.ACTION_LOCK";
+    public static String ACTION_LOCK = "com.github.shingyx.lockwidget.LOCK";
 
     public static boolean isEnabled(Context context) {
         AccessibilityManager accessibilityManager = context.getSystemService(AccessibilityManager.class);
