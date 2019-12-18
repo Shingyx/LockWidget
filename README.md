@@ -14,3 +14,5 @@ _Lock Widget_ is an Android widget locks your screen at the tap of an icon on yo
 It has no dependencies, resulting in a 12 KB apk.
 
 Supports Android 9 and above, since this requires the [Android 9 accessibility framework changes](https://developer.android.com/about/versions/pie/android-9.0#a11y-convenience-actions).
+
+Download the apk here: https://github.com/Shingyx/LockWidget/releases
